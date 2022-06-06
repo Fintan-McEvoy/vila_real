@@ -1,4 +1,3 @@
-os
 wget>=3.2
 pandas>01.1.5
 skimage>=0.17.2
