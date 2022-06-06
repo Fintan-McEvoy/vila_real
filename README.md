@@ -1,2 +1,2 @@
 # vila_real
-Lecure Vila Real, June 2021
+Lecture Vila Real, June 2021
