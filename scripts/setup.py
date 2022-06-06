@@ -2,7 +2,7 @@ import os
 cwd = os.getcwd()
 import pandas as pd
 
-pip install skimage
+
 
 import skimage
 from skimage.io import imread
