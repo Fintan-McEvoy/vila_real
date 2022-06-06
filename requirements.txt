@@ -1,6 +1,5 @@
 wget>=3.2
 pandas>01.1.5
-skimage>=0.17.2
 sklearn>=0.0
 scipy>=1.5.2
 numpy>=1.19.2
