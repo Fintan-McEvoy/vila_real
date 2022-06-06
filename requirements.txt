@@ -4,7 +4,7 @@ sklearn>=0.0
 scipy>=1.5.2
 numpy>=1.19.2
 matplotlib>=3.3.4
-cv2>=3.4.2
+cv2
 pydub>=0.25.1
 watermark>=2.0.2
 
