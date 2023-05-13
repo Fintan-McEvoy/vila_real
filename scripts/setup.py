@@ -8,6 +8,7 @@ import skimage
 from skimage.io import imread
 from skimage import io
 
+import scikit-learn
 from skimage.feature import greycomatrix
 from skimage.feature import greycoprops
 #from skimage.feature import graycomatrix, graycoprops
